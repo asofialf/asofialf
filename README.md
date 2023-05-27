@@ -4,7 +4,7 @@ I'm Sofia, a passionate software engineering student on the path to becoming a f
 
 ## About Me
 
-- 🎓 I'm currently pursuing a degree in Software Engineering.
+- 🎓 I'm currently learning Java and Spring Boot
 - 💻 I love working on personal projects and sharing them with the community.
 - 🌱 I'm constantly learning and exploring new technologies to expand my skills.
 - 😺 Fun fact: I'm a cat lover!
